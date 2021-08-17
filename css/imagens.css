@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    
+    background-image: linear-gradient(to bottom, #171738, #2e1760) ;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    color:white;
+}
+
+
+img{
+    margin: 30px;
+    width: 200px;
+    box-shadow: 1px 1px 10px black;
+}
+.flexbox{
+    display: flex;
+    max-width: 800px;
+}

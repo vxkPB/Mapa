@@ -1,0 +1,32 @@
+body{
+    /*background-color: #2e1760;*/
+    background-image: linear-gradient(to bottom, #171738, #2e1760) ;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    color:white;
+}
+#contato{
+    background-color: #8f6593;
+    padding: 3px;
+    margin: 5px 2px 2px 2px;
+    border-radius: 3px;
+}
+strong{
+    color:#3423a6;
+    text-shadow: 1px 1px 2px #7180b9;
+    font-size: 20px;
+    font-style: italic;
+}
+main{
+    text-align: center;
+}
+.nomeh2{
+    color:white;
+    font-family: 'Arial';
+    font-size:28px;
+}
+p{
+    color:#e3e4db;
+}
